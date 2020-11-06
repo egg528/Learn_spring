@@ -1,6 +1,6 @@
 package hello.core.member;
 
-public interface MemberReposiroty {
+public interface MemberRepository {
 
     void save(Member member);
 
