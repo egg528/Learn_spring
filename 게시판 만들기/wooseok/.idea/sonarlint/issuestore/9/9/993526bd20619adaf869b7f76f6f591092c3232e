@@ -1,0 +1,17 @@
+
+e
+java:S4488)"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ä¶±¬8˜ÁĞ‚/
+l
+java:S44880"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(şäÉçşÿÿÿÿ8¸¿ÆĞ‚/
+W
+java:S1128"5Remove this unused import 'jakarta.validation.Valid'.(ÀãÅ”ûÿÿÿÿ8ªªºĞ‚/
+l
+java:S4488K"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(½®–øÿÿÿÿ8îÃ§Ò‚/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ì©ì­/
+r
+java:S1192&"UDefine a constant instead of duplicating this literal "redirect:/board/list" 3 times.(ªó»µ8ÂüÕÒ‚/
+l
+java:S4488 "JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(½âö£şÿÿÿÿ8ùí¥Ï‚/
+j
+java:S1192"HDefine a constant instead of duplicating this literal "boardVo" 3 times.(ÁïÛùÿÿÿÿ8÷ŠîĞ‚/

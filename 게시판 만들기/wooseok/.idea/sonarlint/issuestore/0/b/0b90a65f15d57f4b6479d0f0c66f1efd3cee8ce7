@@ -1,0 +1,6 @@
+
+f
+java:S1128"IRemove this unused import 'org.hibernate.validator.constraints.NotEmpty'.(ı¿Å˜8®¥—Ğ‚/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹²‘
+i
+java:S1128"GRemove this unused import 'org.hibernate.validator.constraints.Length'.(Ê—œªÿÿÿÿÿ8Æ×ºĞ‚/
